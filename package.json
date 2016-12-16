@@ -1,0 +1,19 @@
+{
+  "name": "fish-tank-light-skill",
+  "version": "1.0.0",
+  "description": "An Alexa skill for controlling lights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolanmiu/Fish-Tank-Light-Skill.git"
+  },
+  "author": "Dolan Miu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolanmiu/Fish-Tank-Light-Skill/issues"
+  },
+  "homepage": "https://github.com/dolanmiu/Fish-Tank-Light-Skill#readme"
+}
